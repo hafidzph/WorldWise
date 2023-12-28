@@ -35,66 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Borriol",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-28T16:27:18.213Z",
-      "notes": "ewfg",
-      "position": {
-        "lat": "40.073736747090734",
-        "lng": "-0.02111434936523438"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Borriol",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-28T16:27:18.213Z",
-      "notes": "ewfg",
-      "position": {
-        "lat": "40.073736747090734",
-        "lng": "-0.02111434936523438"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-28T16:30:22.096Z",
-      "notes": "yeyey",
-      "position": {
-        "lat": "40.04036662014926",
-        "lng": "-0.022307979798448237"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Vilafames",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-28T16:34:16.774Z",
-      "notes": "weg",
-      "position": {
-        "lat": "40.10539004693686",
-        "lng": "-0.0556021093183845"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Puebla Tornesa",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-28T16:36:06.687Z",
-      "notes": "hehe",
-      "position": {
-        "lat": "40.10512762269367",
-        "lng": "-0.02606170093305327"
-      },
-      "id": 98443202
     }
   ]
 }
